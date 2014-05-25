@@ -9,8 +9,8 @@
 # ===========================================================================
 # Change the path as per the data location
 setwd("~/Desktop/Personal/Office/Projects/Financial_Services")
-source("Information Statistics.R")
-source("KL Statistics.R")
+source("Information_Statistics.R")
+source("KL_Statistics.R")
 # ===========================================================================
 
 # Importing the German credit score data
